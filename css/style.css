@@ -20,7 +20,7 @@ a {
 /* ======== HEADER ======== */
 .header {
   display: flex;
-  align-items: center;
+  align-items: left;
   justify-content: space-between;
   padding: 15px 40px;
   background-color: #fff;
